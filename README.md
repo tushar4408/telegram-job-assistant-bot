@@ -1,6 +1,6 @@
 # Telegram Job Assistant Bot
 
-A Telegram bot that helps users find real-time job opportunities based on their skills using the Adzuna Jobs API.
+A Telegram bot that provides real-time job alerts based on user skills using Python, Telegram Bot API, and Adzuna Job API.
 
 ## Features
 - Fetches live job listings automatically
@@ -27,3 +27,4 @@ ADZUNA_APP_KEY=your_key
 
 3. Run the bot:
 python bot.py
+
